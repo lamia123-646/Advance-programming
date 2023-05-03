@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4581fa434c584d11a3810a133312a31e" Name="Diagram1">
+        <EntityTypeShape EntityType="Database1Model.Department" Width="1.5" PointX="1" PointY="1.25" IsExpanded="true" FillColor="192, 0, 192" />
+        <EntityTypeShape EntityType="Database1Model.Student" Width="1.5" PointX="6.875" PointY="1.25" FillColor="192, 0, 192" />
+        <EntityTypeShape EntityType="Database1Model.StudentMark" Width="1.5" PointX="5" PointY="1.125" FillColor="192, 0, 192" />
+        <EntityTypeShape EntityType="Database1Model.Subject" Width="1.5" PointX="3" PointY="1" FillColor="192, 0, 192" />
+        <EntityTypeShape EntityType="Database1Model.Exam" Width="1.5" PointX="10.875" PointY="1.25" FillColor="192, 0, 192" />
+        <EntityTypeShape EntityType="Database1Model.SubjectLecture" Width="1.5" PointX="8.75" PointY="1.25" FillColor="192, 0, 192" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
